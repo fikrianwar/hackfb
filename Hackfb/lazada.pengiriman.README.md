@@ -10,9 +10,8 @@ def bersih():
 def menu():
     bersih()
     print("+==============================+")
-    print("Author Ezipizzy ")
-    print("Facebook:Fikri Anwar ")
-    print("Instagram:@fikrianwarrr_ ")
+    print("Author Ezipizzyy ")
+    print("Facebook:Lakoke ")
     print("+==============================+")
     print("[+] Menu Pilihan [+]")
     print("[1]Dark Fbv1.7")
@@ -29,7 +28,7 @@ def menu():
        os.system("git clone https://github.com/Mryans>
        print("Penginstalan Selsai")
        print("Ketik $ cd hackfb")
-       print("Ketik $ ls (Cari nama file")
+       print("Ketik $ ls (")
     elif pilih =="3":
        os.system("clear")
        print("Terima kasih,semoga harimu menyenangkan>
